@@ -22,16 +22,16 @@ Aplikasi ini dibangun menggunakan bahasa pemrograman C dengan penerapan konsep m
 
 ## Tangkapan Layar Program
 
-![Screenshot1](Screenshot1.png)
+![Screenshot1](Screenshot1.jpeg)
 
-![Screenshot2](Screenshot2.png)
+![Screenshot2](Screenshot2.jpeg)
 
-![Screenshot3](Screenshot3.png)
+![Screenshot3](Screenshot3.jpeg)
 
-![Screenshot4](Screenshot4.png)
+![Screenshot4](Screenshot4.jpeg)
 
-![Screenshot5](Screenshot5.png)
+![Screenshot5](Screenshot5.jpeg)
 
-![Screenshot6](Screenshot6.png)
+![Screenshot6](Screenshot6.jpeg)
 
-![Screenshot7](Screenshot7.png)
+![Screenshot7](Screenshot7.jpeg)
